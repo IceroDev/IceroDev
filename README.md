@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jean Staffe</h1>
 <h3 align="center">Un développeur discord.js depuis 2018. Toujours à la recherche de nouveaux apprentissages</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icerodev" alt="icerodev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/icerodev" target="blank"><img src="https://img.shields.io/twitter/follow/icerodev?logo=twitter&style=for-the-badge" alt="icerodev" /></a> </p>
 
