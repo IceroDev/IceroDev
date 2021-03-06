@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/icerodev" target="blank"><img src="https://img.shields.io/twitter/follow/icerodev?logo=twitter&style=for-the-badge" alt="icerodev" /></a> </p>
 
-- 🔭 Je travaille actuellement chez [NetHeberg](https://netheberg.fr)
+- 🔭 Je travaille actuellement chez [Dedigo](https://dedigo.fr)
 
 - 🌱 Je suis en train d'apprendre **Le développement bash**
 
