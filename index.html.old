@@ -7,15 +7,12 @@
       name="viewport"
       content="width=device-width,initial-scale=1,user-scalable=no"
     />
-    <meta name="title" content="Jean Staffe" />
-    <meta property="og:image" content="https://staffe.net/profilepict.jpg" />
-    <meta name="thumbnail" content="https://staffe.net/profilepict.jpg" />
-    <meta name="theme-color" content="#078a67" />
-    <meta name="keywords" content="staffe, jean,jeanstaffe, jean_staffe" />
-    <meta
-      name="description"
-      content="Student in computer science. Passionate about cloud/web development and hosting since 2018."
-    />
+    <meta name="title" content="Jean Staffe">
+<meta property="og:image" content="https://staffe.net/profilepict.jpg">
+<meta name="thumbnail" content="https://staffe.net/profilepict.jpg">
+<meta name="theme-color" content="#078a67" />
+<meta name="keywords" content="staffe, jean,jeanstaffe, jean_staffe">
+<meta name="description" content="Student in computer science. Passionate about cloud/web development and hosting since 2018.">
     <link
       href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200italic,400,400italic,100,100italic%7CBaloo:400,400italic"
       rel="stylesheet"
@@ -1375,7 +1372,7 @@
         vertical-align: middle;
       }
       #divider01:before {
-        height: 2rem;
+        height: 1rem;
         border-left: solid 1px transparent;
         width: 1px;
       }
@@ -2807,10 +2804,11 @@
                       alt=""
                     />
                   </div>
-                  <h3 id="text07">DediGo</h3>
+                  <h3 id="text07">Dedigo</h3>
                   <p id="text10">
-                    DediGo is a VPS/Web/Game Server/Reseller hosting company
-                    since 2009. I work there as a technical sales manager.
+                    Dedigo is a web and game server and cloud hosting provider
+                    since 2009. I&#39;m actively working there as a commercial
+                    support agent.
                   </p>
                   <hr id="divider01" />
                 </div>
