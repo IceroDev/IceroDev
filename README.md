@@ -14,7 +14,7 @@
 
 - 💬 Posez-moi des questions sur **le développement discord.js**
 
-- 📫 Comment me joindre **contact@staffe.net**
+- 📫 Comment me joindre **jean@staffe.net**
 
 <h3 align="left">Suivez moi:</h3>
 <p align="left">
