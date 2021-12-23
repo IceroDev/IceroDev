@@ -4,15 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/icerodev" target="blank"><img src="https://img.shields.io/twitter/follow/icerodev?logo=twitter&style=for-the-badge" alt="icerodev" /></a> </p>
 
-- 🔭 Je travaille actuellement chez [Dedigo](https://dedigo.fr)
-
 - 🌱 Je suis en train d'apprendre **Le développement bash**
-
-- 🚧 Mon projet personnel est [TheHosting Bot](https://thehostingbot.xyz)
 
 - 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [https://staffe.net](https://staffe.net)
 
-- 💬 Posez-moi des questions sur **le développement discord.js**
+- 💬 Posez-moi des questions sur **les infrastructures linux**
 
 - 📫 Comment me joindre **jean@staffe.net**
 
