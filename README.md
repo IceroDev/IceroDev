@@ -1,11 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jean Staffe</h1>
 <h3 align="center">Un développeur discord.js depuis 2018 et sysadmin. Toujours à la recherche de nouveaux apprentissages</h3>
-<p>
+<p align="center">
 <a href="https://discord.com/users/495874584650842123" target="blank"><img style="margin-left:auto; margin-right:auto;" src="https://discord.c99.nl/widget/theme-3/495874584650842123.png" alt="icerodev" height="80" /></a></p>
 
-
-
-<p align="left"> <a href="https://twitter.com/icerodev" target="blank"><img src="https://img.shields.io/twitter/follow/icerodev?logo=twitter&style=for-the-badge" alt="icerodev" /></a> </p>
 
 - 🌱 Je suis en train d'apprendre **Le réseau d'infrastructure**
 
