@@ -50,3 +50,7 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=IceroDev&theme=radical&show_icons=true&locale=fr&count_private=true"
         alt="icerodev" /></p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=IceroDev&label=Profile%20Views&color=0&icon=3&pretty=true" />
+</a>
