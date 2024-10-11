@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jean Staffe</h1>
-<h3 align="center">Un étudiant en cybersécurité. Toujours à la recherche de nouveaux apprentissages
+<h3 align="center">System enginner chez Infrabel. Toujours à la recherche de nouveaux apprentissages
 </h3>
 
-- 🌱 Je suis en train d'apprendre **Le réseau d'infrastructure**
+- 🌱 Je suis en train d'apprendre **L'orchestration de conteneurs sous openshift**
 
 - 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [https://staffe.net](https://staffe.net)
 
